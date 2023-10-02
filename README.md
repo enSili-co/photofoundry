@@ -1,2 +1,23 @@
-# photofoundry
-Batch Photo processing for macOS
+<p align=center>
+  <img height="150px" src="https://github.com/enSili-co/photofoundry/raw/main/images/logo.png"/>
+</p>
+<h1 align=center>PhotoFoundry for Mac</h1>
+<p align=center>
+  Want to convert text to audio, in any language,<br>and share it as a file? Look no further.<br><br>This is the only tool you'll ever need.
+</p>
+
+
+---
+
+# Download for free (3-day trial)
+
+▶︎ https://cdn.ensili.co/download/speakme/speakme-2.0.zip
+
+# Official Website
+
+▶︎ https://photofoundry.app
+
+# Issues
+
+For issues/comments/suggestions/feedback (everything is 100% welcome!),...    
+...just open an Issue here at github! :)
