@@ -31,12 +31,12 @@ body {
 }
 
 a {
-  color: #c0d7de;
+  color: #c5dedc;
 }
 
 a:hover,
 a:focus {
-  color: #5C96A9;
+  color: #64a6a2;
 }
 
 h1 {
@@ -78,7 +78,7 @@ p {
 }
 
 p.lead {
-  color: #c0d7de;
+  color: #c5dedc;
   margin-bottom: 2rem;
 }
 
@@ -104,7 +104,7 @@ p.lead {
 
 .btn-primary {
   border-radius: 3px;
-  background-color: #5C96A9;
+  background-color: #64a6a2;
   box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.2);
   font-weight: 500;
   padding: 0.6rem 2rem;
@@ -117,7 +117,7 @@ p.lead {
 .btn-primary:not([disabled]):not(.disabled).active,
 .btn-primary:not([disabled]):not(.disabled):active,
 .show > .btn-primary.dropdown-toggle {
-  background-color: #51889a;
+  background-color: #589995;
   box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.3);
   color: #FFF;
 }
@@ -254,10 +254,10 @@ header {
 /* FEATURES
 ----------------------*/
 .gradient-fill:before {
-  color: #a20e85;
-  background: -moz-linear-gradient(top, #730a5e 0%, #a20e85 100%);
-  background: -webkit-linear-gradient(top, #730a5e 0%, #a20e85 100%);
-  background: linear-gradient(to bottom, #730a5e 0%, #a20e85 100%);
+  color: #A55674;
+  background: -moz-linear-gradient(top, #555a8a 0%, #A55674 100%);
+  background: -webkit-linear-gradient(top, #555a8a 0%, #A55674 100%);
+  background: linear-gradient(to bottom, #555a8a 0%, #A55674 100%);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -282,10 +282,10 @@ header {
   content: "";
   position: absolute;
   width: 3px;
-  color: #a20e85;
-  background: -moz-linear-gradient(top, #730a5e 0%, #a20e85 100%);
-  background: -webkit-linear-gradient(top, #730a5e 0%, #a20e85 100%);
-  background: linear-gradient(to bottom, #730a5e 0%, #a20e85 100%);
+  color: #A55674;
+  background: -moz-linear-gradient(top, #555a8a 0%, #A55674 100%);
+  background: -webkit-linear-gradient(top, #555a8a 0%, #A55674 100%);
+  background: linear-gradient(to bottom, #555a8a 0%, #A55674 100%);
   top: 0;
   bottom: 0;
   left: 0;
@@ -319,7 +319,7 @@ header {
   border-radius: 50%;
   margin-bottom: 1.5rem;
   background-color: #FFF;
-  color: #5C96A9;
+  color: #64a6a2;
   font-size: 48px;
   text-align: center;
   line-height: 80px;
@@ -336,7 +336,7 @@ header {
   }
 }
 .ui-steps li:hover .circle-icon {
-  background: #5C96A9;
+  background: #64a6a2;
   box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.09);
   color: #FFF;
 }
@@ -585,7 +585,7 @@ header {
 
 .social-icons a:hover {
   text-decoration: none;
-  color: #c0d7de;
+  color: #c5dedc;
 }
 
 @media (max-width: 991px) {
