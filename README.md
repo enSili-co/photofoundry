@@ -3,7 +3,7 @@
 </p>
 <h1 align=center>PhotoFoundry for Mac</h1>
 <p align=center>
-  Want to convert text to audio, in any language,<br>and share it as a file? Look no further.<br><br>This is the only tool you'll ever need.
+  Filters, photo effects, resizing, color adjustments,<br>...anything you've been looking for in a photo-editing app.<br><br>With a Mac's class and speed.
 </p>
 
 

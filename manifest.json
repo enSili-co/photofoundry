@@ -1,5 +1,5 @@
 {
-  "name": "PhotoFoundry: Text to Audio Transcription for Mac",
+  "name": "PhotoFoundry: Batch Photo Editor for Mac",
   "icons": [
     {
       "src": "favico/android-icon-36x36.png",
@@ -39,7 +39,7 @@
     }
   ],
   "short_name": "PhotoFoundry",
-  "description": "Instantly convert any text to audio with a single click from your Mac",
+  "description": "Professional-quality conversion and batch-processing of photos and images from your Mac",
   "start_url": "/",
   "display": "standalone"
 }
