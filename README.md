@@ -3,7 +3,7 @@
 </p>
 <h1 align=center>PhotoFoundry for Mac</h1>
 <p align=center>
-  Filters, photo effects, resizing, color adjustments,<br>...anything you've been looking for in a photo-editing app.<br><br>With the speed and class of a Mac.
+  Filters, photo effects, resizing, watermarks,<br>...anything you've been looking for in a photo-editing app.<br><br>With the speed and class of a Mac.
 </p>
 
 
