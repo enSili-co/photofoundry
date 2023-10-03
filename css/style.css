@@ -3,6 +3,10 @@
   background-color: #e8f2f1 !important;
 }
 
+.navbar-brand {
+  font-size: 1.25em;
+}
+
 /*
 
 Style   : MobApp CSS
