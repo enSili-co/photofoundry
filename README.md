@@ -11,11 +11,11 @@
 
 # Download for free (3-day trial)
 
-▶︎ 
+▶︎ https://ensili.co/download/photofoundry/PhotoFoundry-1.2.5.zip
 
 # Official Website
 
-▶︎ https://photofoundry.app
+▶︎ https://ensili.co/app/photofoundry
 
 # Issues
 
