@@ -11,7 +11,7 @@
 
 # Download for free (3-day trial)
 
-▶︎ https://ensili.co/download/photofoundry/photofoundry-1.2.6.zip
+▶︎ https://cdn.ensili.co/app/photofoundry/download/photofoundry-1.2.6.zip
 
 # Official Website
 
